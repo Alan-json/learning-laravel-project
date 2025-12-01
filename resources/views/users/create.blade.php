@@ -31,7 +31,7 @@
                     </div>
 
                     <button type="submit"
-                            class="bg-blue-600 text-white px-4 py-2 rounded" style="color: #000; border: solid 1px;">
+                            class="bg-blue-600 text-white px-4 py-2 rounded" style="color: #fff; border: solid 1px;">
                         Save User
                     </button>
                 </form>
